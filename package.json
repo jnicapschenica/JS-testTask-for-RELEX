@@ -1,0 +1,16 @@
+{
+  "name": "js-task-for-relex",
+  "version": "1.0.0",
+  "description": "JS Test Task for Relex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Maria Zhbankova <batonsja@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {}
+}
